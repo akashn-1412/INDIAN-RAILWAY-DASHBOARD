@@ -30,22 +30,31 @@ Copy code
    ```bash
    pip install -r requirements.txt
 🛡 Usage
+
 🔧 Data Generation
+
 Run the data generation script to create train_data.csv:
+
 bash
 Copy code
 python src/data_generation.py
 📝 Data Analysis
+
 Explore and analyze the data using Jupyter notebook:
+
 bash
 Copy code
 jupyter notebook notebooks/data_analysis.ipynb
 📊 Power BI Dashboard
+
 Open indian_railway_dashboard.pbix file in Power BI to view visualizations.
+
 🗂 Folder Structure
+
 data/: Contains generated train_data.csv.
 notebooks/: Jupyter notebook for data analysis.
 src/: Data generation script.
 images/: Screenshots or images for documentation.
 🌟 Contributing
+
 Contributions are welcome! Please fork the repository and create a pull request for any enhancements or fixes.
