@@ -1,9 +1,9 @@
-==================================================
-        🚆 Indian Railway Dashboard
-==================================================
+========INDIA RAILWAY DASHBOARD========
+==
 
 **License:** MIT License  
-**Technologies:** Python | Power BI
+**Technologies:** Python | Power BI | Jupyter Notebook | Git | Pandas | Matplotlib | Seaborn
+
 
 --------------------------------------------------
 **Overview:**
@@ -23,18 +23,13 @@ Welcome to the Indian Railway Dashboard project! This initiative provides a deep
 --------------------------------------------------
 **Installation:**
 --------------------------------------------------
-1. **Clone the Repository:**
-git clone https://github.com/akashn-1412/indian-railway-dashboard.git
-cd indian-railway-dashboard
+1. **Clone the Repository:**```git clone https://github.com/akashn-1412/indian-railway-dashboard.git```
+<br>```cd indian-railway-dashboard```
 
-markdown
-Copy code
 
 2. **Install Dependencies:**
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-markdown
-Copy code
 
 --------------------------------------------------
 **Usage:**
@@ -43,15 +38,13 @@ Copy code
 Run the data generation script to create `train_data.csv`:
 python src/data_generation.py
 
-markdown
-Copy code
+
 
 - **📝 Data Analysis:**
 Open and analyze the data using Jupyter notebook:
 jupyter notebook notebooks/data_analysis.ipynb
 
-markdown
-Copy code
+
 
 - **📊 Power BI Dashboard:**
 Open the `indian_railway_dashboard.pbix` file in Power BI to view the visualizations.
