@@ -1,10 +1,10 @@
+To ensure proper formatting, each line needs to be carefully formatted in markdown. Here's a single block version that should display correctly on GitHub:
+
 markdown
 Copy code
 # 🚆 Indian Railway Dashboard
 
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Power BI](https://img.shields.io/badge/PowerBI-Desktop-yellow.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![Power BI](https://img.shields.io/badge/PowerBI-Desktop-yellow.svg)
 
 ## 📜 Overview
 
@@ -20,7 +20,7 @@ The **Indian Railway Dashboard** project provides a comprehensive analysis and v
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/indian-railway-dashboard.git
+   git clone https://github.com/akashn-1412/indian-railway-dashboard.git
    cd indian-railway-dashboard
 Install Dependencies:
 bash
@@ -46,6 +46,3 @@ src/: Data generation script.
 images/: Screenshots or images for documentation.
 🌟 Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any enhancements or fixes.
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
