@@ -22,10 +22,13 @@ The **Indian Railway Dashboard** project provides a comprehensive analysis and v
    ```bash
    git clone https://github.com/akashn-1412/indian-railway-dashboard.git
    cd indian-railway-dashboard
-Install Dependencies:
-bash
+markdown
 Copy code
-pip install -r requirements.txt
+## 🚀 Installation
+
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
 🛡 Usage
 🔧 Data Generation
 Run the data generation script to create train_data.csv:
