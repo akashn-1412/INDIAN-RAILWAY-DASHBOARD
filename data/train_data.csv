@@ -1,0 +1,501 @@
+Train Number,Train Name,Train Type,Total Distance,Total Station Stop,Total Junction,Total Days,Train Review,Speed,Operator Zone,Total Number of Seats
+29361,Agra Cantt. - Delhi Gatimaan Express,Jan Shatabdi,782 km,34,13,1,1,160,West,1161
+03600,Agra Cantt. - Delhi Gatimaan Express,Express,3598 km,29,14,5,4,180,North,1099
+24200,Agra Cantt. - Delhi Gatimaan Express,Superfast,3767 km,9,8,5,5,80,North,1069
+06390,Agra Cantt. - Delhi Gatimaan Express,Double Decker,2485 km,9,1,6,5,120,South,1339
+09177,Agra Cantt. - Delhi Gatimaan Express,Rajdhani,735 km,14,12,3,2,80,North,1276
+08318,Agra Cantt. - Delhi Gatimaan Express,Express,3258 km,16,13,4,3,180,South,1354
+04952,Agra Cantt. - Delhi Gatimaan Express,Double Decker,2991 km,9,9,6,2,160,West,1369
+02037,Agra Cantt. - Delhi Gatimaan Express,Duronto,640 km,6,1,1,5,180,North,1044
+06863,Ahmedabad - Mumbai Double Decker Express,Rajdhani,3567 km,21,2,6,4,80,West,1037
+28250,Ahmedabad - Mumbai Double Decker Express,Jan Shatabdi,2564 km,11,10,5,3,60,South,1009
+04565,Ahmedabad - Mumbai Double Decker Express,Express,3708 km,24,1,6,4,80,South,1057
+03785,Ajmer - Jammu Tawi Garib Rath Express,Duronto,3749 km,20,4,4,4,120,East,1287
+08983,Ajmer - Jammu Tawi Garib Rath Express,Rajdhani,385 km,28,1,4,4,80,North,1042
+07239,Ajmer - Jammu Tawi Garib Rath Express,Duronto,2731 km,21,4,3,4,80,North,966
+21736,Ajmer - Jammu Tawi Garib Rath Express,Shatabdi,1267 km,5,8,6,3,180,North,1036
+06987,Ajmer - Jammu Tawi Garib Rath Express,Luxury,1452 km,9,3,7,3,140,West,1267
+03930,Ajmer - Jammu Tawi Garib Rath Express,Garib Rath,782 km,27,15,1,3,60,West,1125
+02462,Ajmer Shatabdi Express,Luxury,1865 km,29,15,3,1,80,South,1374
+06105,Ajmer Shatabdi Express,Express,289 km,6,6,2,5,60,South,1322
+07045,Ajmer Shatabdi Express,Rajdhani,3997 km,4,1,6,1,80,South,1375
+05032,Ajmer Shatabdi Express,Luxury,1761 km,31,10,1,5,180,West,1217
+28331,Amritsar - Haridwar Jan Shatabdi Express,Shatabdi,382 km,30,7,2,3,100,North,975
+09082,Amritsar - Haridwar Jan Shatabdi Express,Luxury,2181 km,14,1,5,3,140,West,1132
+09924,Amritsar - Haridwar Jan Shatabdi Express,Express,549 km,21,15,1,1,160,South,1054
+04638,Amritsar - Haridwar Jan Shatabdi Express,Luxury,375 km,14,15,1,3,80,South,1207
+03393,Amritsar - Haridwar Jan Shatabdi Express,Duronto,2023 km,24,4,7,1,120,South,1318
+22688,Amritsar - Kochuveli Express,Shatabdi,2443 km,16,2,7,4,80,West,1370
+21062,Amritsar - Kochuveli Express,Jan Shatabdi,1118 km,21,2,1,2,140,West,1080
+06523,Amritsar - Kochuveli Express,Express,2069 km,30,7,2,2,100,North,1132
+03971,Amritsar - Kochuveli Express,Express,2521 km,6,2,4,5,180,South,1003
+01485,Amritsar - Kochuveli Express,Rajdhani,3460 km,10,3,7,2,60,South,1056
+03644,Amritsar - Kochuveli Express,Duronto,2951 km,31,10,4,4,60,South,1254
+05842,Amritsar Shatabdi Express,Luxury,1917 km,6,5,2,2,120,East,933
+07347,Amritsar Shatabdi Express,Rajdhani,3655 km,31,11,2,4,140,East,1077
+06388,Amritsar Shatabdi Express,Express,1292 km,7,10,5,1,80,East,1400
+03634,Amritsar Shatabdi Express,Garib Rath,1976 km,21,11,5,1,100,North,1300
+03648,Amritsar Shatabdi Express,Express,2234 km,33,7,1,5,180,West,1200
+04916,Anand Vihar Terminal - Bhagalpur Vikramshila Express,Double Decker,1287 km,10,12,1,2,100,West,1316
+28150,Anand Vihar Terminal - Bhagalpur Vikramshila Express,Jan Shatabdi,3693 km,26,10,3,2,160,West,1259
+24463,Anand Vihar Terminal - Bhagalpur Vikramshila Express,Superfast,668 km,6,3,3,5,80,West,1043
+09218,Anand Vihar Terminal - Bhagalpur Vikramshila Express,Luxury,694 km,7,13,5,2,60,East,1070
+08464,Anand Vihar Terminal - Bhagalpur Vikramshila Express,Rajdhani,2468 km,24,4,6,4,180,West,1137
+03680,Anand Vihar Terminal - Gorakhpur Humsafar Express,Express,2992 km,25,11,2,2,140,East,1098
+05955,Anand Vihar Terminal - Gorakhpur Humsafar Express,Garib Rath,1112 km,22,10,5,1,120,West,1197
+25166,Anand Vihar Terminal - Gorakhpur Humsafar Express,Shatabdi,3512 km,26,15,1,3,80,North,901
+05339,Anand Vihar Terminal - Gorakhpur Humsafar Express,Luxury,3057 km,18,7,1,1,140,South,943
+01402,Anand Vihar Terminal - Gorakhpur Humsafar Express,Rajdhani,2326 km,22,11,3,1,100,West,1383
+03217,Anand Vihar Terminal - Gorakhpur Humsafar Express,Rajdhani,3219 km,26,7,4,4,80,South,1181
+24714,Ananya Express,Shatabdi,1462 km,23,11,6,1,80,West,1374
+09820,Ananya Express,Duronto,407 km,27,12,1,2,140,North,1052
+05601,Ananya Express,Rajdhani,3277 km,12,11,2,4,140,East,1192
+03976,Andaman Express,Duronto,3318 km,33,9,7,5,140,West,1377
+23820,Andaman Express,Jan Shatabdi,1615 km,16,4,2,5,120,East,1213
+22462,Andaman Express,Jan Shatabdi,3693 km,4,6,6,5,180,South,1314
+08433,Avantika Express,Garib Rath,2980 km,34,7,7,5,180,East,1157
+04884,Avantika Express,Garib Rath,703 km,19,14,4,4,80,South,936
+01160,Avantika Express,Luxury,1027 km,34,4,1,5,100,East,1152
+09865,Avantika Express,Luxury,1203 km,33,12,1,4,140,North,1040
+27699,Bandra Terminus - Gandhidham Express,Shatabdi,3147 km,8,5,2,5,160,West,1220
+24917,Bandra Terminus - Gandhidham Express,Shatabdi,1455 km,13,9,4,5,180,North,1168
+08345,Bandra Terminus - Gandhidham Express,Rajdhani,2833 km,13,15,4,1,140,North,1205
+07769,Bandra Terminus - Gandhidham Express,Rajdhani,2371 km,8,2,1,5,80,East,974
+01408,Bandra Terminus - Gandhidham Express,Rajdhani,2329 km,10,15,7,2,180,West,1009
+25746,Bandra Terminus - Gandhidham Express,Superfast,3406 km,24,7,6,5,140,North,1123
+01057,Bandra Terminus - Gandhidham Express,Rajdhani,2579 km,9,4,4,3,100,East,1221
+04758,Bhagalpur - Anand Vihar Terminal Vikramshila Express,Duronto,1559 km,26,13,7,4,120,East,989
+02439,Bhagalpur - Anand Vihar Terminal Vikramshila Express,Double Decker,3485 km,15,5,4,5,140,South,1139
+26859,Bhagalpur - Anand Vihar Terminal Vikramshila Express,Shatabdi,2584 km,16,13,6,2,180,East,1155
+01963,Bhagalpur - Anand Vihar Terminal Vikramshila Express,Express,2166 km,32,9,6,4,160,West,1018
+26179,Bhagalpur - Anand Vihar Terminal Vikramshila Express,Shatabdi,3216 km,4,12,1,3,140,South,910
+05455,Bhopal Shatabdi Express,Garib Rath,1069 km,27,7,3,4,180,West,1184
+23911,Bhopal Shatabdi Express,Shatabdi,3528 km,24,15,2,1,140,West,929
+27541,Bhopal Shatabdi Express,Shatabdi,3438 km,10,2,1,1,100,South,1368
+05197,Bhopal Shatabdi Express,Rajdhani,1394 km,18,9,3,5,120,East,1338
+03750,Bhopal Shatabdi Express,Garib Rath,2506 km,34,1,1,2,140,West,1373
+01377,Bhubaneswar - Howrah Jan Shatabdi Express,Express,3491 km,18,8,4,4,140,East,1087
+08341,Bhubaneswar - Howrah Jan Shatabdi Express,Double Decker,1120 km,16,7,1,3,160,West,965
+04041,Bhubaneswar - Howrah Jan Shatabdi Express,Garib Rath,897 km,31,12,6,4,120,East,1198
+29541,Bhubaneswar - Howrah Jan Shatabdi Express,Jan Shatabdi,3960 km,16,6,3,1,140,South,1385
+08705,Chennai - Coimbatore Shatabdi Express,Double Decker,1019 km,28,1,1,3,140,East,1150
+01354,Chennai - Coimbatore Shatabdi Express,Luxury,2482 km,23,14,2,2,140,East,1267
+06401,Chennai - Coimbatore Shatabdi Express,Rajdhani,648 km,25,11,5,1,140,East,923
+23109,Chennai - Coimbatore Shatabdi Express,Jan Shatabdi,2629 km,13,3,4,1,140,South,1021
+04457,Chennai - Mysore Shatabdi Express,Duronto,1162 km,32,10,2,4,140,East,1023
+08376,Chennai - Mysore Shatabdi Express,Rajdhani,3576 km,10,13,1,1,100,North,1032
+09787,Chennai - Mysore Shatabdi Express,Luxury,3119 km,32,5,5,4,160,North,920
+05775,Chennai - Mysore Shatabdi Express,Double Decker,2256 km,6,14,4,2,120,North,1193
+28036,Chennai - Mysore Shatabdi Express,Superfast,3063 km,29,3,4,3,160,East,1391
+04661,Chennai - Mysore Shatabdi Express,Express,3784 km,6,1,5,4,100,South,1143
+07633,Chennai - Mysore Shatabdi Express,Rajdhani,376 km,15,9,1,1,160,North,1024
+09095,Chennai - Mysore Shatabdi Express,Luxury,831 km,33,1,6,5,140,East,953
+28678,Chennai - Mysore Shatabdi Express,Jan Shatabdi,804 km,11,6,3,4,120,South,963
+06694,Chennai - Mysore Shatabdi Express,Double Decker,709 km,30,8,5,4,140,East,1228
+25757,Coimbatore - Chennai Shatabdi Express,Shatabdi,3125 km,28,1,1,2,120,West,1086
+03170,Coimbatore - Chennai Shatabdi Express,Garib Rath,1810 km,7,13,1,3,80,North,1027
+25259,Coimbatore - Chennai Shatabdi Express,Jan Shatabdi,2473 km,33,5,2,3,160,East,1120
+07098,Coimbatore - Chennai Shatabdi Express,Rajdhani,268 km,19,4,2,5,120,South,1174
+03061,Coimbatore - Chennai Shatabdi Express,Express,2180 km,6,13,7,2,120,West,1038
+09175,Dadar - Amritsar Express,Garib Rath,2331 km,29,3,6,1,140,South,1183
+06029,Dadar - Amritsar Express,Garib Rath,1688 km,26,7,5,2,120,East,1278
+08592,Dadar - Amritsar Express,Rajdhani,2408 km,14,5,5,4,180,East,1341
+09516,Dadar - Amritsar Express,Garib Rath,3984 km,12,11,4,2,60,East,1342
+08435,Dadar - Amritsar Express,Express,1741 km,15,13,4,2,160,South,1368
+09559,Dadar - Amritsar Express,Express,1012 km,12,9,3,2,80,West,1049
+05910,Dadar - Amritsar Express,Double Decker,2562 km,16,5,5,4,160,South,956
+08540,Dadar - Amritsar Express,Duronto,2092 km,31,4,1,2,100,West,1241
+09514,Dadar - Tirunelveli Chalukya Express,Garib Rath,1004 km,9,8,2,1,80,North,995
+23651,Dadar - Tirunelveli Chalukya Express,Shatabdi,1292 km,28,10,4,2,120,South,951
+09194,Dadar - Tirunelveli Chalukya Express,Double Decker,3951 km,5,6,3,4,120,West,1135
+06523,Deccan Queen,Rajdhani,167 km,25,5,5,3,100,West,1378
+26717,Deccan Queen,Superfast,496 km,17,6,7,5,60,South,1341
+29818,Deccan Queen,Shatabdi,2882 km,20,15,1,2,140,North,1040
+09609,Deccan Queen,Rajdhani,191 km,28,11,5,1,120,West,1094
+01294,Delhi - Agra Cantt. Gatimaan Express,Garib Rath,1954 km,32,6,2,2,180,North,971
+07578,Delhi - Agra Cantt. Gatimaan Express,Double Decker,456 km,8,6,4,3,120,South,1153
+02986,Delhi - Agra Cantt. Gatimaan Express,Express,1648 km,29,13,1,2,100,North,1376
+28902,Delhi - Agra Cantt. Gatimaan Express,Superfast,2517 km,8,13,4,4,140,West,1252
+08342,Delhi - Agra Cantt. Gatimaan Express,Express,1469 km,24,13,1,3,140,West,1338
+04742,Delhi - Agra Cantt. Gatimaan Express,Luxury,3304 km,14,9,7,1,140,North,1154
+09316,Dibrugarh - Rajendra Nagar Weekly Express,Express,3792 km,14,11,5,2,140,West,1147
+22269,Dibrugarh - Rajendra Nagar Weekly Express,Jan Shatabdi,2126 km,20,3,5,4,140,West,1397
+02289,Dibrugarh - Rajendra Nagar Weekly Express,Garib Rath,3337 km,23,12,7,3,160,West,923
+08863,Dibrugarh - Rajendra Nagar Weekly Express,Rajdhani,1402 km,12,6,5,2,100,West,1168
+21294,Dibrugarh - Rajendra Nagar Weekly Express,Shatabdi,1718 km,5,2,3,1,160,South,1096
+28434,Dibrugarh - Rajendra Nagar Weekly Express,Jan Shatabdi,2309 km,26,6,5,5,60,South,1017
+04684,Doon Express,Luxury,712 km,8,12,1,4,180,North,1054
+05334,Doon Express,Duronto,3293 km,26,6,3,3,160,East,1067
+23053,Doon Express,Jan Shatabdi,3264 km,29,4,2,4,60,North,1281
+23822,Doon Express,Jan Shatabdi,2819 km,11,1,2,3,160,North,1091
+09671,Doon Express,Express,2082 km,18,14,2,4,80,South,1025
+05711,Fairy Queen Express,Garib Rath,3846 km,23,7,3,5,140,South,911
+07661,Fairy Queen Express,Garib Rath,1683 km,14,11,3,5,180,East,1253
+22836,Fairy Queen Express,Jan Shatabdi,1271 km,11,9,7,2,140,East,922
+06726,Fairy Queen Express,Garib Rath,2287 km,13,3,4,4,60,West,1144
+07211,Fairy Queen Express,Duronto,3096 km,16,3,6,1,80,South,1359
+26207,Fairy Queen Express,Jan Shatabdi,225 km,7,7,2,4,160,North,1192
+06093,Fairy Queen Express,Rajdhani,682 km,13,1,1,1,120,East,1350
+21575,Gandhidham - Bandra Terminus Express,Jan Shatabdi,1208 km,25,4,3,2,80,South,1114
+02570,Gandhidham - Bandra Terminus Express,Rajdhani,2224 km,29,12,7,4,60,East,1372
+01248,Gandhidham - Bandra Terminus Express,Double Decker,2095 km,13,2,5,4,60,North,1034
+01358,Gandhidham - Bandra Terminus Express,Express,253 km,7,13,2,4,60,North,1254
+29867,Gandhidham - Bandra Terminus Express,Jan Shatabdi,3087 km,20,2,3,4,100,West,1122
+09293,Ganga Kaveri Express,Double Decker,2718 km,19,8,5,3,180,North,1195
+01437,Ganga Kaveri Express,Luxury,3263 km,20,8,5,4,120,East,1131
+09563,Ganga Kaveri Express,Express,607 km,34,8,5,2,160,West,991
+28531,Ganga Kaveri Express,Jan Shatabdi,647 km,32,12,4,4,180,North,1312
+09630,Ganga Kaveri Express,Garib Rath,1911 km,14,6,6,2,160,South,1281
+25549,Ganga Kaveri Express,Superfast,2861 km,13,11,7,2,180,North,1120
+22004,Ganga Kaveri Express,Superfast,205 km,6,10,4,3,160,East,961
+29850,Ganga Kaveri Express,Superfast,3315 km,24,15,1,2,180,East,1031
+21912,Gatimaan Express,Shatabdi,2924 km,26,8,7,1,180,East,1369
+09258,Gatimaan Express,Rajdhani,1256 km,17,7,3,1,180,East,912
+09751,Gatimaan Express,Rajdhani,317 km,12,10,3,5,80,South,953
+21775,Gatimaan Express,Shatabdi,1501 km,8,4,5,4,120,North,1298
+26863,Gatimaan Express,Jan Shatabdi,3415 km,5,8,3,2,180,East,1249
+01745,Gitanjali Express,Garib Rath,1623 km,22,10,3,5,80,North,1044
+07441,Gitanjali Express,Rajdhani,603 km,35,8,4,5,120,West,1219
+26111,Gitanjali Express,Jan Shatabdi,3441 km,23,9,1,1,100,West,1137
+24452,Gitanjali Express,Superfast,3566 km,13,14,3,2,120,East,1377
+27826,Goa Express,Superfast,637 km,33,9,3,3,160,North,1181
+25916,Golden Chariot,Superfast,2819 km,35,12,3,5,120,East,1309
+27973,Golden Chariot,Jan Shatabdi,3994 km,26,2,7,5,100,North,1168
+03729,Golden Chariot,Rajdhani,1902 km,20,6,1,2,140,East,949
+28899,Golden Chariot,Shatabdi,546 km,5,11,1,2,100,East,1111
+03679,Golden Chariot,Double Decker,3798 km,28,10,1,5,120,South,1068
+25097,Golden Chariot,Shatabdi,3507 km,30,11,4,5,100,East,1347
+25749,Gorakhpur - Lokmanya Tilak Terminus Express,Shatabdi,1612 km,12,3,3,3,60,West,919
+04574,Gorakhpur - Lokmanya Tilak Terminus Express,Double Decker,619 km,19,1,1,4,180,North,1002
+08502,Gorakhpur - Lokmanya Tilak Terminus Express,Double Decker,2906 km,16,13,1,2,60,West,1211
+28057,Gorakhpur - Lokmanya Tilak Terminus Express,Jan Shatabdi,2119 km,15,4,5,3,100,West,1042
+28260,Gorakhpur - Lokmanya Tilak Terminus Express,Shatabdi,876 km,24,14,7,5,60,South,1377
+23817,Grand Trunk Express,Superfast,3404 km,6,9,6,5,60,North,1285
+24754,Grand Trunk Express,Superfast,1870 km,26,5,2,5,60,North,921
+05767,Grand Trunk Express,Luxury,3836 km,33,6,2,1,80,South,977
+04119,Grand Trunk Express,Luxury,1629 km,24,4,5,2,140,West,1158
+28343,Grand Trunk Express,Jan Shatabdi,1536 km,10,4,7,5,80,North,1193
+09910,Grand Trunk Express,Double Decker,1326 km,33,11,6,1,140,North,1062
+05977,Gujarat Mail,Luxury,2540 km,34,7,7,4,100,North,1330
+22147,Gujarat Mail,Shatabdi,2981 km,18,7,6,5,100,East,1203
+01252,Gujarat Mail,Duronto,486 km,7,12,6,2,100,West,1252
+09932,Gujarat Mail,Express,810 km,21,2,3,3,140,West,1110
+29688,Gujarat Mail,Shatabdi,833 km,19,2,4,3,180,West,985
+26018,Guwahati - Dibrugarh Rajdhani Express,Jan Shatabdi,2909 km,22,4,2,2,60,South,960
+09031,Guwahati - Dibrugarh Rajdhani Express,Double Decker,3574 km,23,10,6,3,120,North,1087
+21650,Guwahati - Dibrugarh Rajdhani Express,Shatabdi,3728 km,22,5,1,5,160,North,1300
+22913,Guwahati - Thiruvananthapuram Express,Shatabdi,1415 km,26,15,3,4,80,South,1223
+01699,Guwahati - Thiruvananthapuram Express,Rajdhani,453 km,6,12,3,5,100,South,1130
+04590,Guwahati - Thiruvananthapuram Express,Rajdhani,1314 km,34,14,3,5,80,South,1063
+04074,Hampi Express,Garib Rath,971 km,9,2,6,1,180,North,988
+08058,Hampi Express,Luxury,1083 km,22,8,5,2,100,East,1332
+22815,Hampi Express,Superfast,1564 km,6,10,5,3,140,South,1064
+21547,Hampi Express,Shatabdi,2258 km,19,7,2,3,120,South,1313
+23545,Hampi Express,Superfast,3746 km,28,3,1,4,120,South,982
+01027,Hatia - Patna Express,Double Decker,1786 km,30,9,1,2,100,South,1123
+03634,Hatia - Patna Express,Double Decker,3582 km,22,14,1,3,100,North,939
+28903,Hatia - Patna Express,Jan Shatabdi,244 km,16,10,4,2,140,North,901
+28542,Hatia - Patna Express,Shatabdi,1977 km,17,4,2,3,80,South,1357
+05643,Hatia - Patna Express,Double Decker,1605 km,19,2,6,2,100,North,1180
+04230,Hatia - Patna Express,Express,3995 km,11,11,2,5,180,North,1048
+08874,Hatia - Patna Express,Rajdhani,3867 km,6,12,5,5,140,South,1029
+03116,Hatia - Patna Express,Express,1751 km,31,4,5,3,100,North,1343
+23937,Hatia - Patna Express,Jan Shatabdi,356 km,13,14,7,3,80,West,1323
+28993,Hatia - Patna Express,Shatabdi,1143 km,33,5,5,3,120,West,1362
+02416,Hazrat Nizamuddin - Secunderabad Rajdhani Express,Double Decker,3064 km,28,4,2,5,140,West,1266
+09008,Hazrat Nizamuddin - Secunderabad Rajdhani Express,Luxury,1586 km,9,11,2,2,60,North,1211
+21602,Hazrat Nizamuddin - Secunderabad Rajdhani Express,Jan Shatabdi,1079 km,26,5,3,1,60,East,1045
+05993,Hazrat Nizamuddin - Secunderabad Rajdhani Express,Rajdhani,3930 km,6,1,2,2,120,South,1041
+02701,Hazrat Nizamuddin - Secunderabad Rajdhani Express,Duronto,3584 km,11,15,6,2,80,North,1309
+22881,Hazrat Nizamuddin - Secunderabad Rajdhani Express,Superfast,2306 km,25,8,2,2,100,North,952
+08418,Himachal Express,Garib Rath,3064 km,10,9,2,4,80,North,1236
+01060,Himachal Express,Rajdhani,3440 km,31,5,5,5,180,East,1238
+04467,Himachal Express,Garib Rath,1125 km,22,12,4,2,180,West,1367
+04408,Himachal Express,Rajdhani,1954 km,8,7,6,3,60,South,1033
+04651,Himachal Express,Garib Rath,1641 km,9,14,4,2,160,West,1094
+25341,Himachal Express,Shatabdi,1459 km,15,9,7,5,180,West,1182
+07536,Himalayan Queen,Express,1659 km,14,2,7,3,180,East,1199
+07380,Himalayan Queen,Luxury,1863 km,5,7,6,1,60,East,1064
+27395,Himalayan Queen,Jan Shatabdi,3402 km,23,8,7,2,60,East,902
+09987,Himalayan Queen,Garib Rath,312 km,33,11,7,3,60,West,1254
+25613,Himsagar Express,Shatabdi,1580 km,32,11,5,5,140,East,946
+02285,Himsagar Express,Double Decker,2769 km,24,1,1,2,180,North,1231
+04433,Himsagar Express,Luxury,1181 km,12,15,7,4,160,North,938
+09261,Himsagar Express,Express,191 km,32,11,4,5,60,North,1173
+07673,Himsagar Express,Double Decker,744 km,12,2,5,1,180,West,967
+29019,Howrah - Bhubaneswar Jan Shatabdi Express,Shatabdi,1575 km,17,4,1,2,80,West,1142
+04232,Howrah - Bhubaneswar Jan Shatabdi Express,Garib Rath,3284 km,17,9,6,1,80,South,1090
+06136,Howrah - Bhubaneswar Jan Shatabdi Express,Garib Rath,1894 km,11,10,7,1,120,West,1154
+21721,Howrah - Ranchi Shatabdi Express,Shatabdi,362 km,22,2,1,3,180,East,975
+08665,Howrah - Ranchi Shatabdi Express,Duronto,1310 km,9,12,7,5,100,South,1233
+01569,Howrah - Yeshvantpur Duronto Express,Garib Rath,200 km,15,5,4,2,180,North,1338
+29606,Howrah - Yeshvantpur Duronto Express,Jan Shatabdi,3420 km,31,2,3,2,160,East,1393
+02233,Howrah - Yeshvantpur Duronto Express,Garib Rath,873 km,10,3,2,3,100,West,1244
+02176,Howrah - Yesvantpur Humsafar Express,Double Decker,2090 km,24,15,6,2,120,East,971
+08635,Howrah - Yesvantpur Humsafar Express,Express,2672 km,26,9,5,4,60,East,900
+07313,Howrah - Yesvantpur Humsafar Express,Double Decker,3946 km,33,6,3,2,100,West,1240
+24919,Howrah - Yesvantpur Humsafar Express,Shatabdi,1616 km,14,14,7,3,140,North,907
+03721,Howrah - Yesvantpur Humsafar Express,Duronto,898 km,8,9,4,3,80,North,1122
+07117,Howrah - Yesvantpur Humsafar Express,Garib Rath,767 km,28,2,7,1,180,North,1366
+01375,Humsafar Express,Luxury,915 km,4,11,2,2,120,South,1187
+03285,Humsafar Express,Duronto,3355 km,12,15,6,1,140,South,989
+26416,Humsafar Express,Jan Shatabdi,3355 km,24,12,4,4,140,South,989
+29934,Humsafar Express,Jan Shatabdi,3307 km,26,2,1,5,100,East,931
+21532,Indore - Jammu Tawi Malwa Express,Jan Shatabdi,1117 km,25,12,6,4,80,East,1146
+05850,Indore - Jammu Tawi Malwa Express,Luxury,1395 km,24,13,5,2,140,South,1269
+03557,Indore - Jammu Tawi Malwa Express,Duronto,587 km,23,8,7,3,80,South,1318
+07505,Indore - Jammu Tawi Malwa Express,Garib Rath,110 km,5,5,4,3,180,East,1275
+01971,Indore - Jammu Tawi Malwa Express,Duronto,1484 km,29,3,3,2,120,West,1384
+09261,Indore - Jammu Tawi Malwa Express,Double Decker,2409 km,30,8,3,4,60,East,934
+06851,Indore - Jammu Tawi Malwa Express,Luxury,887 km,5,5,4,2,120,South,1022
+28652,Indore - Jammu Tawi Malwa Express,Shatabdi,242 km,19,11,2,1,80,East,1400
+05646,Indore - Jammu Tawi Malwa Express,Express,1564 km,9,6,5,4,80,West,1367
+05277,Jammu Tawi - Ajmer Garib Rath Express,Duronto,128 km,11,14,7,1,80,South,1015
+25670,Jammu Tawi - Ajmer Garib Rath Express,Superfast,1715 km,15,3,1,3,160,South,1049
+26864,Jammu Tawi - Ajmer Garib Rath Express,Superfast,1889 km,35,8,2,4,160,East,1016
+07295,Jammu Tawi - Ajmer Garib Rath Express,Express,3394 km,34,15,2,2,80,East,1398
+07316,Jammu Tawi - Ajmer Garib Rath Express,Garib Rath,171 km,11,7,1,3,80,East,1395
+02215,Jammu Tawi - Indore Malwa Express,Express,404 km,30,9,1,5,100,West,1203
+24729,Jammu Tawi - Indore Malwa Express,Superfast,1193 km,31,13,5,5,100,East,1292
+05418,Jammu Tawi - Indore Malwa Express,Garib Rath,3414 km,11,5,3,2,120,East,1142
+03732,Jammu Tawi - Indore Malwa Express,Duronto,1566 km,16,3,1,1,120,North,986
+28438,Jammu Tawi - Indore Malwa Express,Shatabdi,2526 km,33,13,4,3,140,East,1196
+04150,Jammu Tawi - Pune Jhelum Express,Double Decker,3715 km,14,10,2,5,120,East,1152
+07924,Jammu Tawi - Pune Jhelum Express,Rajdhani,3020 km,31,7,4,3,80,East,1274
+22926,Jammu Tawi - Pune Jhelum Express,Shatabdi,3856 km,10,11,1,5,120,North,1318
+03440,Jammu Tawi - Pune Jhelum Express,Luxury,550 km,19,15,1,2,100,West,1384
+04627,Jammu Tawi - Pune Jhelum Express,Double Decker,1630 km,24,2,1,3,160,West,1043
+21240,Jammu Tawi - Pune Jhelum Express,Superfast,1890 km,35,2,1,5,60,West,1035
+25655,Jan Shatabdi Express,Shatabdi,3116 km,27,2,1,4,180,South,1312
+25036,Jan Shatabdi Express,Superfast,2573 km,5,8,6,2,180,North,1258
+05295,Jan Shatabdi Express,Express,3157 km,24,3,3,2,80,South,1331
+07076,Jan Shatabdi Express,Double Decker,1167 km,34,13,7,3,120,South,1201
+08676,Jan Shatabdi Express,Rajdhani,1096 km,35,2,2,4,160,West,969
+02692,Jan Shatabdi Express,Duronto,145 km,4,15,6,1,120,West,1155
+25762,Jhelum Express,Shatabdi,1033 km,8,6,5,2,100,South,1035
+03793,Jhelum Express,Luxury,350 km,27,2,1,2,120,South,1139
+05494,Jhelum Express,Garib Rath,377 km,15,3,7,3,120,East,1174
+03959,Jhelum Express,Double Decker,1562 km,6,5,3,3,80,East,1028
+27458,Jhelum Express,Shatabdi,1231 km,12,3,7,2,160,South,942
+03486,Kalka Shatabdi Express,Double Decker,3033 km,6,4,7,4,160,South,1283
+08498,Kalka Shatabdi Express,Express,3398 km,25,15,4,4,100,East,1355
+03618,Kalka Shatabdi Express,Luxury,2120 km,10,10,1,1,140,West,928
+06364,Kalka Shatabdi Express,Double Decker,1582 km,11,13,7,5,80,South,1053
+08334,Kalka Shatabdi Express,Garib Rath,2436 km,6,13,3,3,60,East,1363
+27977,Kamakhya - Ranchi Weekly Express,Superfast,2958 km,19,9,2,5,180,South,1376
+08038,Kamakhya - Ranchi Weekly Express,Duronto,2269 km,5,12,4,5,140,East,1203
+02250,Kamakhya - Ranchi Weekly Express,Double Decker,635 km,11,3,7,4,120,North,1045
+08452,Kamakhya - Ranchi Weekly Express,Garib Rath,1889 km,30,6,4,4,120,South,1309
+01000,Karnataka Express,Luxury,3817 km,32,14,7,3,120,South,1252
+01323,Karnataka Express,Garib Rath,2869 km,22,3,2,5,120,North,979
+07952,Karnataka Express,Garib Rath,1174 km,34,3,5,5,120,South,1337
+08593,Karnataka Express,Rajdhani,1077 km,17,14,6,3,100,East,1292
+05889,Karnataka Express,Double Decker,1272 km,26,1,1,3,180,North,1214
+05573,Karnavati Express,Double Decker,1847 km,19,4,3,1,160,West,1075
+23839,Karnavati Express,Shatabdi,804 km,14,13,5,4,160,South,927
+07034,Karnavati Express,Rajdhani,1395 km,31,7,6,4,100,North,1181
+04175,Karnavati Express,Garib Rath,718 km,27,3,2,1,180,North,1258
+28029,Karnavati Express,Superfast,271 km,14,13,6,4,160,West,1187
+24888,Karnavati Express,Superfast,2139 km,33,8,1,5,60,South,1037
+05672,Karnavati Express,Rajdhani,489 km,20,3,3,4,160,East,1140
+01539,Karnavati Express,Express,1368 km,27,8,7,3,60,East,1140
+03682,Karnavati Express,Garib Rath,568 km,32,12,6,1,140,North,1135
+03440,Kerala Express,Rajdhani,2858 km,21,6,5,4,160,West,1076
+21714,Kerala Express,Jan Shatabdi,3549 km,25,7,6,2,180,East,1374
+02845,Kerala Express,Duronto,3118 km,32,4,7,2,180,South,1193
+04504,Kochuveli - Amritsar Express,Rajdhani,483 km,18,10,3,3,180,North,1269
+03312,Kochuveli - Amritsar Express,Rajdhani,489 km,28,12,4,1,180,South,1382
+23057,Konkan Kanya Express,Shatabdi,3468 km,11,10,1,1,60,South,1227
+24024,Konkan Kanya Express,Jan Shatabdi,2167 km,7,13,1,5,140,West,1012
+02451,Konkan Kanya Express,Double Decker,1386 km,33,2,4,2,100,East,1154
+05748,Konkan Kanya Express,Express,220 km,20,15,3,1,100,North,1229
+04911,Konkan Kanya Express,Double Decker,1233 km,12,3,4,5,180,West,918
+24740,Konkan Kanya Express,Shatabdi,578 km,18,10,3,5,120,North,1222
+06132,Konkan Kanya Express,Double Decker,2887 km,13,1,6,1,160,North,1386
+09747,Konkan Kanya Express,Rajdhani,1903 km,16,12,4,1,60,North,1296
+01342,Lal Quila Express,Double Decker,1349 km,34,11,3,1,80,East,931
+02450,Lal Quila Express,Luxury,2697 km,35,6,4,1,120,South,923
+05150,Lal Quila Express,Rajdhani,1666 km,4,11,1,2,120,East,976
+06291,Lal Quila Express,Garib Rath,2073 km,26,3,7,4,140,South,1238
+06850,Lokmanya Tilak Terminus - Gorakhpur Express,Duronto,2934 km,23,2,7,4,100,West,963
+02595,Lokmanya Tilak Terminus - Gorakhpur Express,Double Decker,2797 km,18,3,6,3,100,North,1082
+22308,Lokmanya Tilak Terminus - Gorakhpur Express,Shatabdi,3302 km,29,4,7,2,180,West,1343
+23501,Lokmanya Tilak Terminus - Gorakhpur Express,Jan Shatabdi,1159 km,30,4,4,3,80,East,1354
+21538,Lucknow Shatabdi Express,Shatabdi,1709 km,9,10,3,1,160,West,1226
+02638,Lucknow Shatabdi Express,Garib Rath,434 km,25,15,6,4,80,North,1119
+24545,Lucknow Shatabdi Express,Superfast,3724 km,26,12,6,2,180,West,1400
+27643,Lucknow Shatabdi Express,Shatabdi,1960 km,22,4,1,1,120,North,1095
+26666,Lucknow Shatabdi Express,Shatabdi,1919 km,33,3,7,2,180,South,1206
+04176,Lucknow Shatabdi Express,Luxury,1398 km,26,4,3,4,80,South,926
+05883,Lucknow Shatabdi Express,Garib Rath,3885 km,33,11,7,3,180,West,1011
+05797,Lucknow Shatabdi Express,Rajdhani,389 km,30,9,1,5,60,West,1263
+07294,Madgaon - Mumbai LTT AC Double Decker Express,Duronto,2800 km,30,10,3,2,140,South,1275
+06649,Madgaon - Mumbai LTT AC Double Decker Express,Duronto,1433 km,32,2,1,2,80,South,965
+09417,Madgaon - Mumbai LTT AC Double Decker Express,Rajdhani,350 km,23,15,7,2,60,East,1389
+05721,Madgaon - Mumbai LTT AC Double Decker Express,Double Decker,876 km,14,4,7,2,60,North,1109
+22777,Madgaon - Mumbai LTT AC Double Decker Express,Shatabdi,395 km,30,13,6,5,160,North,1151
+04982,Madgaon - Mumbai LTT AC Double Decker Express,Duronto,2506 km,34,10,4,4,160,West,973
+27325,Madgaon - Mumbai LTT AC Double Decker Express,Shatabdi,524 km,6,7,1,4,160,East,1142
+21756,Maharaja Express,Jan Shatabdi,2639 km,28,3,7,5,160,West,1194
+02675,Maharaja Express,Double Decker,2594 km,18,12,5,5,100,South,1319
+06527,Maharaja Express,Duronto,1066 km,32,13,2,3,60,East,947
+29410,Maharaja Express,Shatabdi,3319 km,34,10,3,2,60,East,952
+22016,Maharaja Express,Superfast,3813 km,21,15,5,3,120,West,1204
+06968,Maharashtra Express,Double Decker,352 km,16,5,1,1,120,North,1007
+28237,Maharashtra Express,Shatabdi,1067 km,35,9,5,2,60,East,1139
+29290,Maharashtra Express,Shatabdi,3966 km,18,9,7,3,180,North,1358
+06709,Maharashtra Express,Rajdhani,2245 km,16,8,5,5,140,East,1142
+27863,Mandovi Express,Jan Shatabdi,2402 km,32,9,3,4,60,East,1091
+02102,Mandovi Express,Double Decker,1520 km,14,1,7,4,140,West,1244
+25638,Mandovi Express,Shatabdi,3223 km,19,14,5,4,160,East,1315
+01690,Mandovi Express,Duronto,1707 km,9,6,6,3,80,South,1243
+22643,Mandovi Express,Shatabdi,390 km,14,11,4,3,120,West,1372
+02936,Mumbai - Ahmedabad Double Decker Express,Luxury,1730 km,9,15,5,2,60,South,1095
+09903,Mumbai - Ahmedabad Double Decker Express,Double Decker,955 km,24,12,1,5,160,West,1105
+27743,Mumbai - Ahmedabad Double Decker Express,Superfast,1064 km,11,10,5,4,80,West,1203
+07499,Mumbai - Ahmedabad Double Decker Express,Express,580 km,7,5,7,2,80,East,1258
+22570,Mumbai - Ahmedabad Double Decker Express,Jan Shatabdi,3919 km,16,2,1,3,160,East,942
+05282,Mumbai - Ahmedabad Double Decker Express,Rajdhani,1809 km,13,6,7,1,180,South,1373
+02796,Mumbai - Ahmedabad Shatabdi Express,Rajdhani,3698 km,11,14,5,1,60,North,1026
+23072,Mumbai - Ahmedabad Shatabdi Express,Superfast,2805 km,23,15,6,3,60,West,1301
+09575,Mumbai - Ahmedabad Shatabdi Express,Double Decker,344 km,4,8,6,5,100,East,1021
+02851,Mumbai - Ahmedabad Shatabdi Express,Express,1566 km,25,10,6,2,100,East,1134
+01080,Mumbai - Ahmedabad Shatabdi Express,Rajdhani,1013 km,12,4,4,1,60,South,1327
+25855,Mumbai - Ahmedabad Shatabdi Express,Shatabdi,3751 km,4,2,6,5,180,North,1094
+29599,Mumbai - Ahmedabad Shatabdi Express,Superfast,3923 km,12,8,6,5,100,North,1116
+23995,Mumbai - LTT Duronto Express,Jan Shatabdi,1561 km,11,1,3,5,180,South,1374
+03089,Mumbai - LTT Duronto Express,Duronto,3338 km,5,4,1,1,120,West,1356
+02844,Mumbai - LTT Duronto Express,Luxury,2257 km,4,15,4,4,100,West,1377
+06126,Mumbai - LTT Duronto Express,Express,2954 km,16,9,3,1,100,West,1172
+25745,Mumbai - LTT Duronto Express,Superfast,2160 km,6,7,6,1,80,East,1174
+01057,Mumbai - LTT Duronto Express,Garib Rath,2620 km,18,13,1,4,100,North,979
+08513,Mumbai LTT - Madgaon AC Double Decker Express,Rajdhani,1813 km,10,3,2,3,60,West,1179
+01043,Mumbai LTT - Madgaon AC Double Decker Express,Duronto,3093 km,5,10,4,2,140,North,1313
+21162,Mumbai LTT - Madgaon AC Double Decker Express,Shatabdi,2123 km,20,8,2,2,140,North,1047
+07052,Mumbai LTT - Madgaon AC Double Decker Express,Double Decker,2602 km,10,10,4,5,160,West,1201
+26937,Mumbai LTT - Madgaon AC Double Decker Express,Shatabdi,2383 km,33,8,5,4,60,North,1018
+29203,Netravati Express,Superfast,3748 km,6,10,6,2,60,East,1295
+04957,Netravati Express,Luxury,1370 km,13,7,7,1,180,North,987
+02824,Netravati Express,Luxury,1324 km,34,4,6,3,120,South,1216
+04432,Netravati Express,Duronto,1790 km,24,13,6,3,80,South,1361
+27240,New Delhi - Kolkata Duronto Express,Jan Shatabdi,1015 km,8,3,6,5,80,North,928
+05297,New Delhi - Kolkata Duronto Express,Double Decker,3895 km,23,2,2,1,100,South,1132
+24878,New Delhi - Kolkata Duronto Express,Shatabdi,3004 km,27,3,4,5,80,North,1369
+02631,New Delhi - Kolkata Duronto Express,Duronto,3972 km,14,9,4,1,180,North,1326
+24512,New Delhi - Kolkata Duronto Express,Shatabdi,2165 km,33,2,5,4,140,East,1006
+22052,New Jalpaiguri - Howrah Shatabdi Express,Shatabdi,104 km,13,1,3,2,160,North,985
+09652,New Jalpaiguri - Howrah Shatabdi Express,Double Decker,1781 km,26,1,7,5,160,South,1391
+28344,New Jalpaiguri - Howrah Shatabdi Express,Shatabdi,1754 km,24,4,2,1,160,North,1247
+23925,New Jalpaiguri - Howrah Shatabdi Express,Shatabdi,580 km,14,14,1,4,160,West,1305
+26441,Palace on Wheels,Jan Shatabdi,3205 km,15,11,7,2,180,North,1221
+02983,Palace on Wheels,Double Decker,1314 km,23,10,5,1,180,South,995
+06451,Palace on Wheels,Double Decker,1274 km,26,2,5,2,160,East,1007
+01555,Palace on Wheels,Express,3467 km,34,6,6,5,60,South,1158
+01723,Palace on Wheels,Luxury,1392 km,4,5,7,2,160,South,1103
+04720,Prayagraj Express,Express,1108 km,21,11,4,2,140,East,1370
+07137,Prayagraj Express,Double Decker,2839 km,16,4,1,3,160,South,1355
+25914,Prayagraj Express,Superfast,2078 km,9,3,5,3,140,West,954
+04327,Pune - Jammu Tawi Jhelum Express,Express,1414 km,4,5,1,3,140,North,1087
+24559,Pune - Jammu Tawi Jhelum Express,Shatabdi,203 km,18,12,2,1,180,East,909
+01514,Pune - Jammu Tawi Jhelum Express,Double Decker,3547 km,20,8,4,1,120,West,978
+08809,Pune - Secunderabad Shatabdi Express,Double Decker,1862 km,23,15,1,5,80,North,1120
+26419,Pune - Secunderabad Shatabdi Express,Superfast,1884 km,13,4,4,4,80,South,1166
+03959,Pune - Secunderabad Shatabdi Express,Express,760 km,28,2,4,4,160,West,1095
+05605,Pune - Secunderabad Shatabdi Express,Duronto,3770 km,12,8,6,4,140,South,925
+25245,Pune - Secunderabad Shatabdi Express,Superfast,3217 km,33,11,3,4,60,West,1125
+03134,Pune - Secunderabad Shatabdi Express,Duronto,3702 km,19,3,3,4,100,East,1258
+28984,Pune - Secunderabad Shatabdi Express,Jan Shatabdi,2550 km,17,2,7,2,100,East,1224
+29690,Pune - Secunderabad Shatabdi Express,Shatabdi,663 km,17,1,7,4,160,West,998
+07124,Pune - Secunderabad Shatabdi Express,Garib Rath,1178 km,35,8,2,2,60,East,1122
+07381,Punjab Mail,Luxury,1976 km,20,9,5,5,100,North,1218
+22746,Purna Express,Shatabdi,806 km,35,7,7,4,60,North,986
+22946,Purna Express,Shatabdi,3280 km,14,5,1,2,80,East,957
+21004,Purna Express,Jan Shatabdi,2402 km,11,15,6,2,160,North,1296
+09766,Purna Express,Double Decker,492 km,6,5,4,2,80,West,1058
+01147,Purna Express,Garib Rath,2816 km,31,10,4,3,180,South,1005
+01354,Purna Express,Duronto,3285 km,27,1,7,4,80,North,922
+09505,Purna Express,Duronto,3989 km,11,10,4,5,60,North,1172
+04729,Purna Express,Rajdhani,3690 km,24,10,2,3,80,West,1234
+08305,Rajasthan Sampark Kranti Express,Rajdhani,213 km,30,11,7,3,160,North,999
+07961,Rajasthan Sampark Kranti Express,Garib Rath,2992 km,29,7,7,4,100,South,1108
+23764,Rajasthan Sampark Kranti Express,Jan Shatabdi,1521 km,19,1,2,4,100,East,1058
+01951,Rajasthan Sampark Kranti Express,Double Decker,536 km,21,13,3,2,100,East,1129
+03391,Rajendra Nagar - Dibrugarh Weekly Express,Luxury,2501 km,15,4,6,5,120,South,1351
+01008,Rajendra Nagar - Dibrugarh Weekly Express,Rajdhani,475 km,11,1,4,4,160,South,1161
+21963,Rajendra Nagar - Dibrugarh Weekly Express,Shatabdi,1957 km,18,15,1,5,140,South,927
+09427,Rajendra Nagar - Dibrugarh Weekly Express,Express,3100 km,32,4,5,5,160,West,1233
+05142,Rajendra Nagar - Dibrugarh Weekly Express,Express,1612 km,20,12,4,4,140,South,1345
+24260,Rajendra Nagar - Dibrugarh Weekly Express,Shatabdi,734 km,7,12,4,4,180,North,1340
+09854,Rajendra Nagar - Dibrugarh Weekly Express,Rajdhani,1892 km,29,1,2,4,180,South,1321
+06154,Ranchi - Kamakhya Weekly Express,Garib Rath,2541 km,18,1,5,5,120,West,1347
+27054,Ranchi - Kamakhya Weekly Express,Superfast,248 km,28,13,1,3,100,West,1258
+02877,Ranchi - Kamakhya Weekly Express,Double Decker,258 km,23,5,5,1,100,West,1319
+27968,Saurashtra Mail,Jan Shatabdi,2197 km,20,1,7,4,80,West,1044
+28403,Saurashtra Mail,Superfast,1801 km,30,12,7,2,160,South,905
+07842,Saurashtra Mail,Express,2372 km,15,15,4,2,160,West,936
+04107,Saurashtra Mail,Double Decker,2693 km,7,12,4,3,120,South,1193
+28201,Secunderabad - Hazrat Nizamuddin Rajdhani Express,Superfast,3520 km,29,9,7,5,60,South,1369
+04691,Secunderabad - Hazrat Nizamuddin Rajdhani Express,Garib Rath,3438 km,19,6,4,4,100,North,1327
+29187,Secunderabad - Pune Shatabdi Express,Superfast,933 km,33,2,1,3,160,South,1024
+02650,Secunderabad - Pune Shatabdi Express,Double Decker,688 km,27,9,1,2,100,West,1060
+09890,Secunderabad - Shalimar Weekly Express,Express,1162 km,5,5,2,4,160,East,1325
+04859,Secunderabad - Shalimar Weekly Express,Duronto,2728 km,21,5,5,1,120,North,1293
+08137,Secunderabad - Visakhapatnam Garib Rath Express,Luxury,3946 km,32,4,6,1,180,West,1300
+04749,Secunderabad - Visakhapatnam Garib Rath Express,Rajdhani,1089 km,29,2,2,1,160,North,1002
+04892,Secunderabad - Visakhapatnam Garib Rath Express,Luxury,126 km,31,8,3,5,80,North,1172
+03471,Secunderabad - Visakhapatnam Garib Rath Express,Rajdhani,889 km,21,5,4,4,120,South,1379
+25995,Secunderabad - Visakhapatnam Garib Rath Express,Superfast,2911 km,32,7,5,3,140,West,915
+01120,Sewagram Express,Double Decker,479 km,14,7,5,5,180,East,1063
+29332,Shalimar - Secunderabad Weekly Express,Shatabdi,3845 km,33,13,1,2,120,South,970
+22324,Shalimar - Secunderabad Weekly Express,Shatabdi,1015 km,14,13,1,1,140,East,1120
+01184,Shalimar - Secunderabad Weekly Express,Duronto,1749 km,14,5,1,2,120,East,1321
+05258,Shalimar - Secunderabad Weekly Express,Garib Rath,3785 km,8,12,2,3,60,East,1256
+06251,Swaraj Express,Garib Rath,2568 km,22,5,7,1,120,East,1080
+22054,Swaraj Express,Shatabdi,2132 km,11,11,4,2,160,East,1169
+03901,Tamil Nadu Express,Rajdhani,786 km,25,4,3,4,100,North,908
+09610,Tamil Nadu Express,Luxury,3841 km,32,5,6,3,120,North,1267
+03899,Tamil Nadu Express,Duronto,1749 km,25,12,2,4,100,West,1087
+01965,Tamil Nadu Express,Garib Rath,3517 km,35,15,2,4,180,West,1062
+07316,Tamil Nadu Express,Express,1330 km,34,15,7,2,180,West,1302
+06348,Tamil Nadu Sampark Kranti Express,Duronto,3926 km,31,9,6,3,80,West,1026
+07037,Tamil Nadu Sampark Kranti Express,Luxury,569 km,13,11,2,1,160,North,1366
+02154,Tamil Nadu Sampark Kranti Express,Rajdhani,2692 km,23,8,4,5,100,West,1213
+04861,Tamil Nadu Sampark Kranti Express,Double Decker,3375 km,27,4,3,3,120,South,908
+07114,Tamil Nadu Sampark Kranti Express,Rajdhani,195 km,21,5,5,3,180,North,929
+02555,Tamil Nadu Sampark Kranti Express,Rajdhani,1021 km,25,13,6,4,180,North,956
+08073,Tamil Nadu Sampark Kranti Express,Express,2255 km,32,14,1,5,120,South,1149
+04918,Tamil Nadu Sampark Kranti Express,Double Decker,3977 km,12,5,3,3,60,North,1128
+07545,Tamil Nadu Sampark Kranti Express,Express,393 km,25,4,1,2,120,South,1097
+05932,Tirunelveli - Dadar Chalukya Express,Double Decker,2457 km,5,9,5,5,60,East,1197
+07991,Tirunelveli - Dadar Chalukya Express,Double Decker,3605 km,35,4,1,5,140,North,1292
+01941,Tirunelveli - Dadar Chalukya Express,Express,3488 km,11,3,6,1,60,East,1175
+08892,Tirunelveli - Dadar Chalukya Express,Rajdhani,1451 km,11,8,5,4,100,North,1053
+21549,Tirunelveli - Dadar Chalukya Express,Superfast,2823 km,32,1,5,3,160,West,1231
+03264,Uday Express,Double Decker,1688 km,17,15,5,3,180,East,1111
+09396,Uday Express,Luxury,1223 km,17,9,4,1,100,South,1182
+05440,Uday Express,Garib Rath,1469 km,12,6,6,3,80,South,1079
+01762,Uday Express,Garib Rath,1716 km,30,5,7,2,160,East,1229
+06284,Uday Express,Duronto,3063 km,30,6,3,4,180,South,929
+04034,Uday Express,Luxury,1376 km,9,6,1,4,60,South,1321
+07000,Uday Express,Duronto,3711 km,13,15,6,5,180,East,1226
+06162,Visakhapatnam - Secunderabad Garib Rath Express,Duronto,3574 km,34,1,4,2,140,South,1231
+08826,Visakhapatnam - Secunderabad Garib Rath Express,Duronto,3047 km,11,14,5,3,160,South,1038
+29815,Visakhapatnam - Secunderabad Garib Rath Express,Superfast,2711 km,8,13,3,5,60,South,996
+07365,Visakhapatnam - Secunderabad Garib Rath Express,Express,3846 km,15,4,6,5,100,North,1293
+06244,Visakhapatnam - Secunderabad Garib Rath Express,Double Decker,3503 km,22,2,2,4,100,East,947
+21831,Yeshvantpur - Howrah Duronto Express,Shatabdi,3597 km,24,14,5,2,120,East,1348
+22315,Yeshvantpur - Howrah Duronto Express,Superfast,2319 km,14,7,4,3,160,North,1048
+06367,Yeshvantpur - Howrah Duronto Express,Express,2807 km,7,14,2,5,180,North,1242
+07356,Yeshvantpur - Howrah Duronto Express,Garib Rath,3716 km,4,14,6,5,140,West,1103
+29005,Yesvantpur - Howrah Humsafar Express,Shatabdi,3328 km,28,4,6,1,80,North,1254
+06263,Yesvantpur - Howrah Humsafar Express,Rajdhani,775 km,17,8,3,2,80,North,1178
+04965,Yesvantpur - Howrah Humsafar Express,Duronto,1900 km,34,5,3,1,80,South,957
+03414,Yuva Express,Garib Rath,2634 km,4,8,7,5,140,South,1359
+09707,Yuva Express,Express,396 km,29,5,7,4,160,East,1233
+05865,Yuva Express,Double Decker,2505 km,20,4,5,5,80,South,1236
+05050,Yuva Express,Express,3554 km,5,1,2,4,80,East,968
+02043,Yuva Express,Double Decker,2347 km,8,7,4,1,60,North,1313
+29044,Yuva Express,Jan Shatabdi,2757 km,9,5,7,2,80,East,990
+08174,Yuva Express,Garib Rath,907 km,31,2,4,3,160,East,1392
+21830,Yuva Express,Jan Shatabdi,1363 km,17,7,3,5,120,East,1040
+22371,Yuva Express,Jan Shatabdi,3041 km,19,10,5,2,100,South,1178
