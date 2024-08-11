@@ -1,7 +1,6 @@
 ========INDIA RAILWAY DASHBOARD========
 ==
 
-**License:** MIT License  
 **Technologies:** Python | Power BI | Jupyter Notebook | Git | Pandas | Matplotlib | Seaborn
 
 
