@@ -57,6 +57,33 @@ Open the `indian_railway_dashboard.pbix` file in Power BI to view the visualizat
 - **src/**: Contains the data generation script (`data_generation.py`).
 - **images/**: Includes screenshots or images for documentation and presentation.
 
+**Image Gallery**
+Here are the categorized images representing different regions and aspects of the Indian Railway:
+
+1.INDIAN_RAILWAY_DASHBOARD
+
+![INDIAN_RAILWAY_DASHBOARD](https://github.com/user-attachments/assets/6da51c44-3e5c-428b-9d59-a3a1971f9318)
+
+2.INDIAN_TRAIN_BY_EASTREGION
+
+![IT_BY_EASTREGION](https://github.com/user-attachments/assets/dc086f9b-0f93-47fb-baad-fe0fcca02766)
+
+
+3.INDIAN_TRAIN_BY_NORTHREGION
+
+![IT_BY_NORTHREGION](https://github.com/user-attachments/assets/2a9ad6bd-fa0f-4126-93ed-c2b4da380b61)
+
+
+4.INDIAN_TRAIN_BY_SOUTHREGION
+
+![IT_BY_SOUTHREGION](https://github.com/user-attachments/assets/17ca0785-2887-4441-892b-eeb56964998d)
+
+
+5.INDIAN_TRAIN_BY_WESTREGION
+
+![IT_BY_WESTREGION](https://github.com/user-attachments/assets/59c95a3f-b5bb-4fb0-8c04-ee9f466c12fb)
+
+
 --------------------------------------------------
 **Contributing:**
 --------------------------------------------------
